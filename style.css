@@ -1,0 +1,11 @@
+body {
+  background-image: url("images/background.jpg");
+  font-family: "Piazolla Medium";
+}
+a {
+  color: yellow;
+  text-decoration: none;
+}
+h5 {
+  color: white;
+}
